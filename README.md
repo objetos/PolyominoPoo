@@ -9,7 +9,7 @@
 
 ## Objetivo
 
-Emplear el paradigma de programación orientada a objetos para implementar uno o varios juegos basados en [polyominoes](https://en.wikipedia.org/wiki/Polyomino), como [Pentomino puzzles](https://en.wikipedia.org/wiki/Pentomino#Constructing_rectangular_dimensions) o el [tetris](https://en.wikipedia.org/wiki/Tetris), entre otros.
+Emplear el paradigma de [programación orientada a objetos](https://github.com/objetos/objects) para implementar uno o varios juegos basados en [polyominoes](https://en.wikipedia.org/wiki/Polyomino), como [Pentomino puzzles](https://en.wikipedia.org/wiki/Pentomino#Constructing_rectangular_dimensions) o el [tetris](https://en.wikipedia.org/wiki/Tetris), entre otros.
 
 ## Sugerencias
 
