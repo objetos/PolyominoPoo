@@ -20,6 +20,11 @@ Emplear el paradigma de [programación orientada a objetos](https://github.com/o
     * [Counting polyominos: yet another attack](https://www.sciencedirect.com/science/article/pii/0012365X81902375?via%3Dihub).
     * [Free polyominoes enumeration @rosettacode](https://rosettacode.org/wiki/Free_polyominoes_enumeration).
 
+## Protocolo
+
+* Hora del último commit: 24h del 8/11/20.
+* Exposiciones del 9/11/20 y 11/11/20 (necesarias para obtener una calificación) de 7m: 5m (presentación: demo + descripción diseño poo) + 2m (preguntas).
+
 ## Otras referencias
 
 * [Polyomino @wolfram](https://mathworld.wolfram.com/Polyomino.html)
