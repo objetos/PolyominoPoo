@@ -1,4 +1,4 @@
-# PolyominoPoo
+# Taller Polyomino POO
 
 > The observation that there are twelve distinctive patterns (the pentominoes) that can be
 > formed by five connected stones on a [Go board](https://en.wikipedia.org/wiki/Go_(game)) … is
