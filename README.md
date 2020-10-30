@@ -22,5 +22,5 @@ Emplear el paradigma de programación orientada a objetos para implementar uno o
 
 ## Otras referencias
 
-[Polyomino @wolfram](https://mathworld.wolfram.com/Polyomino.html)
-[Polyomino integer sequence @oeis](https://oeis.org/A000105)
+* [Polyomino @wolfram](https://mathworld.wolfram.com/Polyomino.html)
+* [Polyomino integer sequence @oeis](https://oeis.org/A000105)
