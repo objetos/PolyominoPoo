@@ -13,10 +13,10 @@ Emplear el paradigma de programación orientada a objetos para implementar uno o
 
 ## Sugerencias
 
-* Emplear [p5.polyomino.js](https://github.com/objetos/p5.polyomino.js) como plantilla (i.e., los métodos públicos de la clase [Polyomino](https://github.com/objetos/p5.polyomino.js/blob/master/libraries/p5.polyomino.js)), adaptándola al lenguaje que se vaya a emplear según el sea caso.
-* Emplear [polimorfismos](objetos.github.io/polymorphism/) para el despligue gráfico de un polyomino junto y el tablero (memoria) del juego.
+* Emplear [p5.polyomino.js](https://github.com/objetos/p5.polyomino.js) como plantilla (i.e., los métodos públicos de la clase [Polyomino](https://github.com/objetos/p5.polyomino.js/blob/master/libraries/p5.polyomino.js)), adaptándola al lenguaje que se vaya a emplear, según el sea caso.
+* Emplear [polimorfismos](objetos.github.io/polymorphism/) para el despligue gráfico de un polyomino y el tablero (memoria) del juego.
 * Si van a generar todas las instancias de polyominos para _n_ celdas, estudiar:
-    * [Algorithms_for_enumeration_of_fixed_polyominoes](https://en.wikipedia.org/wiki/Polyomino#Algorithms_for_enumeration_of_fixed_polyominoes).
+    * [Algorithms for enumeration of fixed polyominoes](https://en.wikipedia.org/wiki/Polyomino#Algorithms_for_enumeration_of_fixed_polyominoes).
     * [Counting polyominos: yet another attack](https://www.sciencedirect.com/science/article/pii/0012365X81902375?via%3Dihub).
     * [Free polyominoes enumeration @rosettacode](https://rosettacode.org/wiki/Free_polyominoes_enumeration).
 
